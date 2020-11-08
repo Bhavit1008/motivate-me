@@ -8,7 +8,6 @@
 
 body {
   font-family: 'Nunito', sans-serif;
-  background:black;
 }
 
 .social-media > a {
@@ -46,9 +45,7 @@ p {
   margin: 5px;
   padding: 3rem;
   border-radius: 10px;
-  shadowOffset:  0px 0px;
-    shadowOpacity: 0.5;
-    shadowRadius: 10;
+ 
 }
 
 #text {
